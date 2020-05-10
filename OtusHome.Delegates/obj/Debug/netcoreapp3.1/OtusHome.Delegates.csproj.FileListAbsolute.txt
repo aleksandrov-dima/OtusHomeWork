@@ -1,0 +1,13 @@
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\obj\Debug\netcoreapp3.1\OtusHome.Delegates.csprojAssemblyReference.cache
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\obj\Debug\netcoreapp3.1\OtusHome.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\obj\Debug\netcoreapp3.1\OtusHome.Delegates.AssemblyInfoInputs.cache
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\obj\Debug\netcoreapp3.1\OtusHome.Delegates.AssemblyInfo.cs
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\bin\Debug\netcoreapp3.1\OtusHome.Delegates.exe
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\bin\Debug\netcoreapp3.1\OtusHome.Delegates.deps.json
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\bin\Debug\netcoreapp3.1\OtusHome.Delegates.runtimeconfig.json
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\bin\Debug\netcoreapp3.1\OtusHome.Delegates.runtimeconfig.dev.json
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\bin\Debug\netcoreapp3.1\OtusHome.Delegates.dll
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\bin\Debug\netcoreapp3.1\OtusHome.Delegates.pdb
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\obj\Debug\netcoreapp3.1\OtusHome.Delegates.dll
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\obj\Debug\netcoreapp3.1\OtusHome.Delegates.pdb
+C:\Users\i-dim\RiderProjects\OtusHome.Delegates\OtusHome.Delegates\obj\Debug\netcoreapp3.1\OtusHome.Delegates.genruntimeconfig.cache
